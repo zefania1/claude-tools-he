@@ -10,5 +10,6 @@
 | ECC | 68 סוכנים לקלוד קוד | [ecc.md](ecc.md) |
 | Remote Control | קלוד קוד בנייד | [remote-control.md](remote-control.md) |
 | OmniRoute | קלוד קוד בלי מפתח | [omniroute.md](omniroute.md) |
+| Agent Reach | הסוכן קורא את כל הרשת | [agent-reach.md](agent-reach.md) |
 
 נתקעתם? כתבו לי בהודעה פרטית באינסטגרם [@barzefania](https://instagram.com/barzefania).
