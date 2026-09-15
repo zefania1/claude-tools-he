@@ -12,5 +12,7 @@
 | OmniRoute | קלוד קוד בלי מפתח | [omniroute.md](omniroute.md) |
 | Agent Reach | הסוכן קורא את כל הרשת | [agent-reach.md](agent-reach.md) |
 | ארבעת הקונקטורים | ארבעה קונקטורים לקלוד | [mcp-connectors.md](mcp-connectors.md) |
+| חמשת הפלאגינים | הפלאגינים לקלוד קוד | [plugins.md](plugins.md) |
+| תשעה תאומים בחינם | 9 מנויים, 9 חלופות קוד-פתוח | [free-twins.md](free-twins.md) |
 
 נתקעתם? כתבו לי בהודעה פרטית באינסטגרם [@barzefania](https://instagram.com/barzefania).
