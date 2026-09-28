@@ -14,5 +14,6 @@
 | ארבעת הקונקטורים | ארבעה קונקטורים לקלוד | [mcp-connectors.md](mcp-connectors.md) |
 | חמשת הפלאגינים | הפלאגינים לקלוד קוד | [plugins.md](plugins.md) |
 | תשעה תאומים בחינם | 9 מנויים, 9 חלופות קוד-פתוח | [free-twins.md](free-twins.md) |
+| OpenWA | קלוד מחובר לוואטסאפ | [whatsapp-openwa.md](whatsapp-openwa.md) |
 
 נתקעתם? כתבו לי בהודעה פרטית באינסטגרם [@barzefania](https://instagram.com/barzefania).
