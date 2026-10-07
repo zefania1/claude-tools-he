@@ -19,5 +19,6 @@
 | Google Maps Scraper Kit | רשימת לקוחות מגוגל מפות | [google-maps-scraper.md](google-maps-scraper.md) |
 | Meta Ads (רשמי) | המודעות של המתחרים בתוך קלוד | [meta-ads-competitors.md](meta-ads-competitors.md) |
 | Prompt Master | פרומפט של מומחה מהמילים שלכם | [prompt-master.md](prompt-master.md) |
+| OpenMontage | אולפן הפקה שלם בתוך קלוד קוד | [open-montage.md](open-montage.md) |
 
 נתקעתם? כתבו לי בהודעה פרטית באינסטגרם [@barzefania](https://instagram.com/barzefania).
