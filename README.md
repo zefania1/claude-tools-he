@@ -20,5 +20,14 @@
 | Meta Ads (רשמי) | המודעות של המתחרים בתוך קלוד | [meta-ads-competitors.md](meta-ads-competitors.md) |
 | Prompt Master | פרומפט של מומחה מהמילים שלכם | [prompt-master.md](prompt-master.md) |
 | OpenMontage | אולפן הפקה שלם בתוך קלוד קוד | [open-montage.md](open-montage.md) |
+| Security Audit של Cloudflare | בדיקת אבטחה לאפליקציה שלכם | [security-audit.md](security-audit.md) |
+| Arena | מאה סוכנים על משימה אחת | [arena.md](arena.md) |
+| Recordly | הקלטת מסך עם זום אוטומטי | [recordly.md](recordly.md) |
+| PhotoCraft | פוטושופ חינמי וקוד פתוח | [photocraft.md](photocraft.md) |
+| REA | להבין איך אפליקציה עובדת מבפנים | [rea.md](rea.md) |
+| Anatomy | איור שמסביר איך דברים עובדים | [anatomy.md](anatomy.md) |
+| OpenCut | עורך וידאו חינמי בדפדפן | [opencut.md](opencut.md) |
+| MiroFish | קהל מדומה שמגיב לרעיון שלכם | [mirofish.md](mirofish.md) |
+| Matt Pocock Skills | הסוכן שואל לפני שהוא בונה | [matt-pocock-skills.md](matt-pocock-skills.md) |
 
 נתקעתם? כתבו לי בהודעה פרטית באינסטגרם [@barzefania](https://instagram.com/barzefania).
