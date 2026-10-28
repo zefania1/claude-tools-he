@@ -30,5 +30,6 @@
 | MiroFish | קהל מדומה שמגיב לרעיון שלכם | [mirofish.md](mirofish.md) |
 | Matt Pocock Skills | הסוכן שואל לפני שהוא בונה | [matt-pocock-skills.md](matt-pocock-skills.md) |
 | שלושה skills (Chief of Staff · Marketing Psychology · Last 30 Days) | שלושה skills שכמעט אף אחד לא מכיר | [three-claude-skills.md](three-claude-skills.md) |
+| StoryScope | הצורה של טקסט שכתב AI | [storyscope.md](storyscope.md) |
 
 נתקעתם? כתבו לי בהודעה פרטית באינסטגרם [@barzefania](https://instagram.com/barzefania).
