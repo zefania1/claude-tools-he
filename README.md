@@ -33,3 +33,4 @@
 | StoryScope | הצורה של טקסט שכתב AI | [storyscope.md](storyscope.md) |
 
 נתקעתם? כתבו לי בהודעה פרטית באינסטגרם [@barzefania](https://instagram.com/barzefania).
+| Kapso | מספר וואטסאפ לקלוד שקובע תורים | [whatsapp-kapso.md](whatsapp-kapso.md) |
