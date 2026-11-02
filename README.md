@@ -32,5 +32,6 @@
 | שלושה skills (Chief of Staff · Marketing Psychology · Last 30 Days) | שלושה skills שכמעט אף אחד לא מכיר | [three-claude-skills.md](three-claude-skills.md) |
 | StoryScope | הצורה של טקסט שכתב AI | [storyscope.md](storyscope.md) |
 | Kapso | מספר וואטסאפ לקלוד שקובע תורים | [whatsapp-kapso.md](whatsapp-kapso.md) |
+| Instagram Agent | 13 סקילים לאינסטגרם בקלוד קוד | [instagram-agent.md](instagram-agent.md) |
 
 נתקעתם? כתבו לי בהודעה פרטית באינסטגרם [@barzefania](https://instagram.com/barzefania).
