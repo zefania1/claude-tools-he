@@ -35,5 +35,6 @@
 | Instagram Agent | 13 סקילים לאינסטגרם בקלוד קוד | [instagram-agent.md](instagram-agent.md) |
 | Claude | סוף שבוע אחד וחמישה צעדים | [claude-weekend.md](claude-weekend.md) |
 | Harvey | סוכן מכירות על המנוי של Claude | [harvey-sales-agent.md](harvey-sales-agent.md) |
+| lemo-opuscar | אנימציה בעשרה סגנונות | [lemo-opuscar.md](lemo-opuscar.md) |
 
 נתקעתם? כתבו לי בהודעה פרטית באינסטגרם [@barzefania](https://instagram.com/barzefania).
