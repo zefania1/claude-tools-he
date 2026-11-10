@@ -37,5 +37,6 @@
 | Harvey | סוכן מכירות על המנוי של Claude | [harvey-sales-agent.md](harvey-sales-agent.md) |
 | lemo-opuscar | אנימציה בעשרה סגנונות | [lemo-opuscar.md](lemo-opuscar.md) |
 | Hallmark | סקיל לקלוד קוד: בונה אתר ותופס בו סימני AI | [hallmark-design-skill.md](hallmark-design-skill.md) |
+| CleanYourTV | פרומפט לקלוד קוד: מנקה את מסך הבית בטלוויזיית אנדרואיד | [cleanyourtv.md](cleanyourtv.md) |
 
 נתקעתם? כתבו לי בהודעה פרטית באינסטגרם [@barzefania](https://instagram.com/barzefania).
