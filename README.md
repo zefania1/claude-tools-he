@@ -36,5 +36,6 @@
 | Claude | סוף שבוע אחד וחמישה צעדים | [claude-weekend.md](claude-weekend.md) |
 | Harvey | סוכן מכירות על המנוי של Claude | [harvey-sales-agent.md](harvey-sales-agent.md) |
 | lemo-opuscar | אנימציה בעשרה סגנונות | [lemo-opuscar.md](lemo-opuscar.md) |
+| Hallmark | סקיל לקלוד קוד: בונה אתר ותופס בו סימני AI | [hallmark-design-skill.md](hallmark-design-skill.md) |
 
 נתקעתם? כתבו לי בהודעה פרטית באינסטגרם [@barzefania](https://instagram.com/barzefania).
